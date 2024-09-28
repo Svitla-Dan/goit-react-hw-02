@@ -1,3 +1,7 @@
+export default function App() {
+  return <div>{}</div>;
+}
+
 // function App() {
 //   const [count, setCount] = useState(0);
 
