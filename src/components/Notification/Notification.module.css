@@ -1,0 +1,9 @@
+/* Notification.module.css */
+.notification {
+  color: #ff1003;
+  font-size: 18px;
+  margin-left: 8px;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+}
